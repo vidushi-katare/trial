@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(80deg,#fcfced, #fced 50%, #efefef );
+}
+
+.detailsForm {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+button{
+  color: palevioletred;
+  padding: 20px;
+  margin-top: 20px;
+  
+}
+
+.patientidForm{
+  display: block;
+  
+} 
